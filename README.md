@@ -1,3 +1,4 @@
 # Lab1-assignment
-William Kirkpatrick endl;
+William Kirkpatrick
+
 Lab 1
